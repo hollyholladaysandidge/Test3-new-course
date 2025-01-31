@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-name="S_Subscribe_18_N@2x" height="36" id="S_Subscribe_18_N_2x" viewBox="0 0 36 36" width="36">
+  <defs>
+    <style>
+      .fill {
+        fill: #6e6e6e;
+      }
+
+      
+    </style>
+  </defs>
+  <polygon class="fill" points="24.779 21.963 36 30.367 36 17.333 36 13.541 24.779 21.963" />
+  <path class="fill" d="M22.866,23.4,19.29,26.094a2.172,2.172,0,0,1-2.58,0l-3.628-2.719L0,33.068A.981.981,0,0,0,1,34H35a.884.884,0,0,0,1-.756Z" />
+  <polygon class="fill" points="11.165 21.938 0 13.511 0 17.333 0 30.195 11.165 21.938" />
+  <path class="fill" d="M19.067.672a2,2,0,0,0-2.133,0L0,11.365V14H6V9A1,1,0,0,1,7,8H29a1,1,0,0,1,1,1v5h6V11.335Z" />
+  <rect class="fill" height="2" rx="0.5" ry="0.5" width="16" x="10" y="12" />
+  <path class="fill" d="M21.83,20H14.17a.5.5,0,0,1-.3-.1l-1.882-1.448A.25.25,0,0,1,12.135,18h11.73a.25.25,0,0,1,.152.448L22.135,19.9A.5.5,0,0,1,21.83,20Z" />
+  </svg>
